@@ -1,3 +1,11 @@
+# Fitness Application! Check Live: [https://food-delivery-city.netlify.app/)
+This project is developed by MOHANAD KHALED
+
+# This project have more features using firebase
+
+you can add item if u logged in
+to see more details watch this video [Watch The Video Of This Project]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
